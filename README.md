@@ -21,7 +21,7 @@ There are 4 code files.
 After doing all the steps:
 
 Type this in terminal:
-cd ~/ros2_swarm_ws
-colcon build --packages-select turtle_formation --symlink-install
-source install/setup.bash
-ros2 launch turtle_formation swarm_predator_prey.launch.py
+1) cd ~/ros2_swarm_ws
+2) colcon build --packages-select turtle_formation --symlink-install
+3) source install/setup.bash
+4) ros2 launch turtle_formation swarm_predator_prey.launch.py
