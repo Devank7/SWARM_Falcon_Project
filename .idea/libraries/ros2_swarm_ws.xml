@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ros2_swarm_ws">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ros2_swarm_ws.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
