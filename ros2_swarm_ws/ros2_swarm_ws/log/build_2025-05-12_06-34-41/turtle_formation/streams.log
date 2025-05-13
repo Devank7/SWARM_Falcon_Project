@@ -1,0 +1,19 @@
+[0.433s] Invoking command in '/home/devam03/ros2_swarm_ws/build/turtle_formation': PYTHONPATH=/home/devam03/ros2_swarm_ws/build/turtle_formation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/devam03/ros2_swarm_ws/install/turtle_formation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/devam03/ros2_swarm_ws/build/turtle_formation/build --no-deps symlink_data
+[0.602s] running develop
+[0.696s] running egg_info
+[0.696s] writing turtle_formation.egg-info/PKG-INFO
+[0.697s] writing dependency_links to turtle_formation.egg-info/dependency_links.txt
+[0.699s] writing entry points to turtle_formation.egg-info/entry_points.txt
+[0.699s] writing requirements to turtle_formation.egg-info/requires.txt
+[0.699s] writing top-level names to turtle_formation.egg-info/top_level.txt
+[0.700s] reading manifest file 'turtle_formation.egg-info/SOURCES.txt'
+[0.701s] writing manifest file 'turtle_formation.egg-info/SOURCES.txt'
+[0.702s] running build_ext
+[0.703s] Creating /home/devam03/ros2_swarm_ws/install/turtle_formation/lib/python3.10/site-packages/turtle-formation.egg-link (link to .)
+[0.704s] Installing predator_swarm script to /home/devam03/ros2_swarm_ws/install/turtle_formation/lib/turtle_formation
+[0.704s] Installing prey_node script to /home/devam03/ros2_swarm_ws/install/turtle_formation/lib/turtle_formation
+[0.704s] Installing spawn_turtles script to /home/devam03/ros2_swarm_ws/install/turtle_formation/lib/turtle_formation
+[0.704s] 
+[0.704s] Installed /home/devam03/ros2_swarm_ws/build/turtle_formation
+[0.704s] running symlink_data
+[0.725s] Invoked command in '/home/devam03/ros2_swarm_ws/build/turtle_formation' returned '0': PYTHONPATH=/home/devam03/ros2_swarm_ws/build/turtle_formation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/devam03/ros2_swarm_ws/install/turtle_formation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/devam03/ros2_swarm_ws/build/turtle_formation/build --no-deps symlink_data

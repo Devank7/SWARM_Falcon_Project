@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>turtle_formation</name>
+  <version>0.1.0</version>
+  <description>Decentralized predator–prey swarm in turtlesim</description>
+  <maintainer email="your.email@example.com">Your Name</maintainer>
+  <license>Apache-2.0</license>
+
+  <!-- Specify that this is an ament_python package -->
+  <buildtool_depend>ament_python</buildtool_depend>
+
+  <!-- Runtime dependencies -->
+  <depend>rclpy</depend>
+  <depend>turtlesim</depend>
+  <depend>geometry_msgs</depend>
+  <depend>std_msgs</depend>
+
+  <export>
+    <!-- IMPORTANT: tells colcon to use the Python build type -->
+    <build_type>ament_python</build_type>
+  </export>
+</package>
+

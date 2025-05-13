@@ -1,0 +1,26 @@
+running develop
+running egg_info
+creating turtle_formation.egg-info
+writing turtle_formation.egg-info/PKG-INFO
+writing dependency_links to turtle_formation.egg-info/dependency_links.txt
+writing entry points to turtle_formation.egg-info/entry_points.txt
+writing requirements to turtle_formation.egg-info/requires.txt
+writing top-level names to turtle_formation.egg-info/top_level.txt
+writing manifest file 'turtle_formation.egg-info/SOURCES.txt'
+reading manifest file 'turtle_formation.egg-info/SOURCES.txt'
+writing manifest file 'turtle_formation.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/devam03/ros2_swarm_ws/install/turtle_formation/lib/python3.10/site-packages/turtle-formation.egg-link (link to .)
+Installing predator_swarm script to /home/devam03/ros2_swarm_ws/install/turtle_formation/lib/turtle_formation
+Installing prey_node script to /home/devam03/ros2_swarm_ws/install/turtle_formation/lib/turtle_formation
+Installing spawn_turtles script to /home/devam03/ros2_swarm_ws/install/turtle_formation/lib/turtle_formation
+
+Installed /home/devam03/ros2_swarm_ws/build/turtle_formation
+running symlink_data
+creating /home/devam03/ros2_swarm_ws/install/turtle_formation/share/ament_index
+creating /home/devam03/ros2_swarm_ws/install/turtle_formation/share/ament_index/resource_index
+creating /home/devam03/ros2_swarm_ws/install/turtle_formation/share/ament_index/resource_index/packages
+symbolically linking /home/devam03/ros2_swarm_ws/build/turtle_formation/resource/turtle_formation -> /home/devam03/ros2_swarm_ws/install/turtle_formation/share/ament_index/resource_index/packages
+symbolically linking /home/devam03/ros2_swarm_ws/build/turtle_formation/package.xml -> /home/devam03/ros2_swarm_ws/install/turtle_formation/share/turtle_formation
+creating /home/devam03/ros2_swarm_ws/install/turtle_formation/share/turtle_formation/launch
+symbolically linking /home/devam03/ros2_swarm_ws/build/turtle_formation/launch/swarm_predator_prey.launch.py -> /home/devam03/ros2_swarm_ws/install/turtle_formation/share/turtle_formation/launch

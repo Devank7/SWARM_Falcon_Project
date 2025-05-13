@@ -1,0 +1,5 @@
+[console_scripts]
+predator_swarm = turtle_formation.predator_swarm:main
+prey_node = turtle_formation.prey_node:main
+spawn_turtles = turtle_formation.spawn_turtles:main
+
